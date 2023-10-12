@@ -1,2 +1,2 @@
 # Evaluating-the-Effectiveness-of-Meta-Labeling
-The repository for the master thesis of Lars Schiffer with the objective of evaluating the effectiveness of Meta-Labeling
+This is the repository for the master thesis of Lars Schiffer. The code was used to obtain the results of the study and answer the RQ: "How does Meta-Labeling and its certainty in predicting profitable trades influence the performance of financial trading strategies on daily asset data, and which features significantly contribute to its effectiveness?".
